@@ -3,6 +3,7 @@
 @media screen and (min-width: 768px) and (max-width:992px) {
     section#login {
         width: 90vw;
+        height: 280px;
     }
     div#imagem {
         float: left;
@@ -14,14 +15,15 @@
         width: 70%;
         height: 100%;
     }
-    body {
+     
 
-    }
+    
 }
 
 @media screen and (min-width: 993px) {
     section#login {
         width: 950px;
+        height: 350px;
     }
     div#imagem {
         float: right;
